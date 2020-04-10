@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>346794146679-h28pu48n86q7rg5sb6rh9mpddk74qnis.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.346794146679-h28pu48n86q7rg5sb6rh9mpddk74qnis</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIXre_RaJzjOI3Iy2ybFrs0RrkFf18Wws</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346794146679</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ExamBox.ExamBox</string>
+	<key>PROJECT_ID</key>
+	<string>exambox-59cc3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exambox-59cc3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346794146679:ios:ec18cde305fa284dd3bf72</string>
+	<key>DATABASE_URL</key>
+	<string>https://exambox-59cc3.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346794146679",
+    "firebase_url": "https://exambox-59cc3.firebaseio.com",
+    "project_id": "exambox-59cc3",
+    "storage_bucket": "exambox-59cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346794146679:android:b835b940108f82a6d3bf72",
+        "android_client_info": {
+          "package_name": "com.exambox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346794146679-b5sij0iev3aohujpl2uuhapj0dkdv3ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exambox",
+            "certificate_hash": "919fac652b0bc328a9e71366d5220bfd781f2b6d"
+          }
+        },
+        {
+          "client_id": "346794146679-1qu7bdkj45p5nrt5733mds34id881mi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMrnJh_MK-HYf15Ams7n6q3Nqd-i5Jc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346794146679-1qu7bdkj45p5nrt5733mds34id881mi1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346794146679-h28pu48n86q7rg5sb6rh9mpddk74qnis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ExamBox.ExamBox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
